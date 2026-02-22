@@ -1,5 +1,5 @@
 # UsefulTools
-A README file listing some useful tools and tweaks.
+A README file listing useful Windows tools and tweaks.
 
 ## O&O ShutUp10++: Free antispy tool for Windows 10 and 11
 
@@ -28,3 +28,9 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 ```
 reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
 ```
+
+## Pathping
+
+For example ```pathping google.com```
+
+Because "Ping is not the best tool to be used to test the availability of a remote network." see https://superuser.com/questions/549617/no-reply-for-ping-command-what-does-this-mean
