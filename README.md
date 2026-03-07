@@ -53,3 +53,27 @@ https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?
 ### Split a PDF into single pages
 
 ```qpdf Ticket_1.pdf --split-pages output.pdf```
+
+### Cinnamon : add a coloured border to windows
+
+Adds a subtle border for windows on Cinnamon. (Not all applications respect this setting)
+
+Create a new file with this content called ```~/.config/gtk-3.0/gtk.css```.
+
+Restart Cinnamon ```Ctrl+Alt+Esc```.
+
+```CSS
+headerbar {
+  border: 3px solid #32435d;
+  border-bottom-style: none;
+}
+
+decoration {
+  border: 3px solid #32435d;
+  background: #32435d;
+}
+```
+
+<https://forums.linuxmint.com/viewtopic.php?p=2565965&sid=8b5fc99fc26a0f69ec5a42fccb42bc52#p2565965>
+
+*When using a dark theme windows tend to blur into each other and this helps a little.*
