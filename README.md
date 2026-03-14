@@ -2,14 +2,6 @@
 
 A README file listing useful  tools and tweaks.
 
-## General
-
-### The Odin Project
-
-<https://www.theodinproject.com/>
-
-High quality coding education maintained by an open source community.
-
 ## Windows
 
 ### O&O ShutUp10++: Free antispy tool for Windows 10 and 11
@@ -59,6 +51,12 @@ See <https://superuser.com/questions/549617/no-reply-for-ping-command-what-does-
 <https://learn.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2025-ps>
 
 ## Linux
+
+### The Odin Project
+
+<https://www.theodinproject.com/>
+
+High quality coding education maintained by an open source community.
 
 ### Split a PDF into single pages
 
