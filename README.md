@@ -1,6 +1,6 @@
 # UsefulTools
 
-A README file listing useful  tools and tweaks.
+A README file listing useful tools and tweaks.
 
 ## Windows
 
@@ -52,12 +52,6 @@ See <https://superuser.com/questions/549617/no-reply-for-ping-command-what-does-
 
 ## Linux
 
-### The Odin Project
-
-<https://www.theodinproject.com/>
-
-High quality coding education maintained by an open source community.
-
 ### Split a PDF into single pages
 
 ```qpdf Ticket_1.pdf --split-pages output.pdf```
@@ -85,3 +79,17 @@ decoration {
 <https://forums.linuxmint.com/viewtopic.php?p=2565965&sid=8b5fc99fc26a0f69ec5a42fccb42bc52#p2565965>
 
 *When using a dark theme windows tend to blur into each other and this helps a little.*
+
+## Web Development
+
+### The Odin Project
+
+<https://www.theodinproject.com/>
+
+High quality coding education maintained by an open source community.
+
+### smolweb
+
+<https://smolweb.org/index.html>
+
+Promoting a simple unbloated web!
