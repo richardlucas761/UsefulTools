@@ -4,6 +4,12 @@ A README file listing useful tools and tweaks.
 
 ## Windows
 
+### Space Sniffer
+
+Visual tool to explore disk space on hard drives.
+
+<https://www.uderzo.it/main_products/space_sniffer/>
+
 ### O&O ShutUp10++: Free antispy tool for Windows 10 and 11
 
 <https://www.oo-software.com/en/shutup10>
