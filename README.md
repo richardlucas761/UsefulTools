@@ -99,3 +99,17 @@ High quality coding education maintained by an open source community.
 <https://smolweb.org/index.html>
 
 Promoting a simple unbloated web!
+
+## Android
+
+### CoMaps
+
+Android mapping app which uses <https://www.openstreetmap.org/> data.
+
+<https://www.comaps.app>
+
+### OpenTracks
+
+"OpenTracks is a sport tracking application that completely respects your privacy."
+
+<https://opentracksapp.com>
