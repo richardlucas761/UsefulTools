@@ -113,3 +113,9 @@ Android mapping app which uses <https://www.openstreetmap.org/> data.
 "OpenTracks is a sport tracking application that completely respects your privacy."
 
 <https://opentracksapp.com>
+
+## Markdown
+
+Markdown tables generator.
+
+<https://www.tablesgenerator.com/markdown_tables>
